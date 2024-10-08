@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * element toggle function
  */
